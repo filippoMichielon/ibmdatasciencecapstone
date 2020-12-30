@@ -1,1 +1,1 @@
-To see the maps, check the "maps" folder or see the notebook [here](https://nbviewer.jupyter.org/github/filippoMichielon/ibmdatasciencecapstone/blob/main/week5/datasciencecapstone_week5.ipynb) (suggested)
+To see the maps, check the "maps" folder or open the notebook [here](https://nbviewer.jupyter.org/github/filippoMichielon/ibmdatasciencecapstone/blob/main/week5/datasciencecapstone_week5.ipynb) (suggested)
